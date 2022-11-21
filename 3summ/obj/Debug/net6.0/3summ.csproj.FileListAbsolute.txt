@@ -1,0 +1,15 @@
+C:\Users\Anika\Desktop\c\3summ\bin\Debug\net6.0\3summ.exe
+C:\Users\Anika\Desktop\c\3summ\bin\Debug\net6.0\3summ.deps.json
+C:\Users\Anika\Desktop\c\3summ\bin\Debug\net6.0\3summ.runtimeconfig.json
+C:\Users\Anika\Desktop\c\3summ\bin\Debug\net6.0\3summ.dll
+C:\Users\Anika\Desktop\c\3summ\bin\Debug\net6.0\3summ.pdb
+C:\Users\Anika\Desktop\c\3summ\obj\Debug\net6.0\3summ.csproj.AssemblyReference.cache
+C:\Users\Anika\Desktop\c\3summ\obj\Debug\net6.0\3summ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anika\Desktop\c\3summ\obj\Debug\net6.0\3summ.AssemblyInfoInputs.cache
+C:\Users\Anika\Desktop\c\3summ\obj\Debug\net6.0\3summ.AssemblyInfo.cs
+C:\Users\Anika\Desktop\c\3summ\obj\Debug\net6.0\3summ.csproj.CoreCompileInputs.cache
+C:\Users\Anika\Desktop\c\3summ\obj\Debug\net6.0\3summ.dll
+C:\Users\Anika\Desktop\c\3summ\obj\Debug\net6.0\refint\3summ.dll
+C:\Users\Anika\Desktop\c\3summ\obj\Debug\net6.0\3summ.pdb
+C:\Users\Anika\Desktop\c\3summ\obj\Debug\net6.0\3summ.genruntimeconfig.cache
+C:\Users\Anika\Desktop\c\3summ\obj\Debug\net6.0\ref\3summ.dll
