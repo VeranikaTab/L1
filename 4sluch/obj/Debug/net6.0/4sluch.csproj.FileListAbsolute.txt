@@ -1,0 +1,15 @@
+C:\Users\Anika\Desktop\c\4sluch\bin\Debug\net6.0\4sluch.exe
+C:\Users\Anika\Desktop\c\4sluch\bin\Debug\net6.0\4sluch.deps.json
+C:\Users\Anika\Desktop\c\4sluch\bin\Debug\net6.0\4sluch.runtimeconfig.json
+C:\Users\Anika\Desktop\c\4sluch\bin\Debug\net6.0\4sluch.dll
+C:\Users\Anika\Desktop\c\4sluch\bin\Debug\net6.0\4sluch.pdb
+C:\Users\Anika\Desktop\c\4sluch\obj\Debug\net6.0\4sluch.csproj.AssemblyReference.cache
+C:\Users\Anika\Desktop\c\4sluch\obj\Debug\net6.0\4sluch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anika\Desktop\c\4sluch\obj\Debug\net6.0\4sluch.AssemblyInfoInputs.cache
+C:\Users\Anika\Desktop\c\4sluch\obj\Debug\net6.0\4sluch.AssemblyInfo.cs
+C:\Users\Anika\Desktop\c\4sluch\obj\Debug\net6.0\4sluch.csproj.CoreCompileInputs.cache
+C:\Users\Anika\Desktop\c\4sluch\obj\Debug\net6.0\4sluch.dll
+C:\Users\Anika\Desktop\c\4sluch\obj\Debug\net6.0\refint\4sluch.dll
+C:\Users\Anika\Desktop\c\4sluch\obj\Debug\net6.0\4sluch.pdb
+C:\Users\Anika\Desktop\c\4sluch\obj\Debug\net6.0\4sluch.genruntimeconfig.cache
+C:\Users\Anika\Desktop\c\4sluch\obj\Debug\net6.0\ref\4sluch.dll
