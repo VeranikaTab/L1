@@ -1,0 +1,15 @@
+C:\Users\Anika\Desktop\c\5ifelse\bin\Debug\net6.0\5ifelse.exe
+C:\Users\Anika\Desktop\c\5ifelse\bin\Debug\net6.0\5ifelse.deps.json
+C:\Users\Anika\Desktop\c\5ifelse\bin\Debug\net6.0\5ifelse.runtimeconfig.json
+C:\Users\Anika\Desktop\c\5ifelse\bin\Debug\net6.0\5ifelse.dll
+C:\Users\Anika\Desktop\c\5ifelse\bin\Debug\net6.0\5ifelse.pdb
+C:\Users\Anika\Desktop\c\5ifelse\obj\Debug\net6.0\5ifelse.csproj.AssemblyReference.cache
+C:\Users\Anika\Desktop\c\5ifelse\obj\Debug\net6.0\5ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anika\Desktop\c\5ifelse\obj\Debug\net6.0\5ifelse.AssemblyInfoInputs.cache
+C:\Users\Anika\Desktop\c\5ifelse\obj\Debug\net6.0\5ifelse.AssemblyInfo.cs
+C:\Users\Anika\Desktop\c\5ifelse\obj\Debug\net6.0\5ifelse.csproj.CoreCompileInputs.cache
+C:\Users\Anika\Desktop\c\5ifelse\obj\Debug\net6.0\5ifelse.dll
+C:\Users\Anika\Desktop\c\5ifelse\obj\Debug\net6.0\refint\5ifelse.dll
+C:\Users\Anika\Desktop\c\5ifelse\obj\Debug\net6.0\5ifelse.pdb
+C:\Users\Anika\Desktop\c\5ifelse\obj\Debug\net6.0\5ifelse.genruntimeconfig.cache
+C:\Users\Anika\Desktop\c\5ifelse\obj\Debug\net6.0\ref\5ifelse.dll
