@@ -1,0 +1,15 @@
+C:\Users\Anika\Desktop\c\7treugol\bin\Debug\net6.0\7treugol.exe
+C:\Users\Anika\Desktop\c\7treugol\bin\Debug\net6.0\7treugol.deps.json
+C:\Users\Anika\Desktop\c\7treugol\bin\Debug\net6.0\7treugol.runtimeconfig.json
+C:\Users\Anika\Desktop\c\7treugol\bin\Debug\net6.0\7treugol.dll
+C:\Users\Anika\Desktop\c\7treugol\bin\Debug\net6.0\7treugol.pdb
+C:\Users\Anika\Desktop\c\7treugol\obj\Debug\net6.0\7treugol.csproj.AssemblyReference.cache
+C:\Users\Anika\Desktop\c\7treugol\obj\Debug\net6.0\7treugol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anika\Desktop\c\7treugol\obj\Debug\net6.0\7treugol.AssemblyInfoInputs.cache
+C:\Users\Anika\Desktop\c\7treugol\obj\Debug\net6.0\7treugol.AssemblyInfo.cs
+C:\Users\Anika\Desktop\c\7treugol\obj\Debug\net6.0\7treugol.csproj.CoreCompileInputs.cache
+C:\Users\Anika\Desktop\c\7treugol\obj\Debug\net6.0\7treugol.dll
+C:\Users\Anika\Desktop\c\7treugol\obj\Debug\net6.0\refint\7treugol.dll
+C:\Users\Anika\Desktop\c\7treugol\obj\Debug\net6.0\7treugol.pdb
+C:\Users\Anika\Desktop\c\7treugol\obj\Debug\net6.0\7treugol.genruntimeconfig.cache
+C:\Users\Anika\Desktop\c\7treugol\obj\Debug\net6.0\ref\7treugol.dll
