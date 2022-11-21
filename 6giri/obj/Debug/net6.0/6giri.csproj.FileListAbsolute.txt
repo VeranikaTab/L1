@@ -1,0 +1,15 @@
+C:\Users\Anika\Desktop\c\6giri\bin\Debug\net6.0\6giri.exe
+C:\Users\Anika\Desktop\c\6giri\bin\Debug\net6.0\6giri.deps.json
+C:\Users\Anika\Desktop\c\6giri\bin\Debug\net6.0\6giri.runtimeconfig.json
+C:\Users\Anika\Desktop\c\6giri\bin\Debug\net6.0\6giri.dll
+C:\Users\Anika\Desktop\c\6giri\bin\Debug\net6.0\6giri.pdb
+C:\Users\Anika\Desktop\c\6giri\obj\Debug\net6.0\6giri.csproj.AssemblyReference.cache
+C:\Users\Anika\Desktop\c\6giri\obj\Debug\net6.0\6giri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anika\Desktop\c\6giri\obj\Debug\net6.0\6giri.AssemblyInfoInputs.cache
+C:\Users\Anika\Desktop\c\6giri\obj\Debug\net6.0\6giri.AssemblyInfo.cs
+C:\Users\Anika\Desktop\c\6giri\obj\Debug\net6.0\6giri.csproj.CoreCompileInputs.cache
+C:\Users\Anika\Desktop\c\6giri\obj\Debug\net6.0\6giri.dll
+C:\Users\Anika\Desktop\c\6giri\obj\Debug\net6.0\refint\6giri.dll
+C:\Users\Anika\Desktop\c\6giri\obj\Debug\net6.0\6giri.pdb
+C:\Users\Anika\Desktop\c\6giri\obj\Debug\net6.0\6giri.genruntimeconfig.cache
+C:\Users\Anika\Desktop\c\6giri\obj\Debug\net6.0\ref\6giri.dll
